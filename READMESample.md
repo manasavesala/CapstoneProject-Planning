@@ -8,3 +8,30 @@
 
 _https://github.com/manasavesala/.git_
 
+## Description
+
+_A web page where users can prepare for interviews for programming languages and take a quiz on intrested language._
+
+## Minimum Features
+
+* _It consists of home page, where user have different programming languages to select._
+* _if a user clicks or selects a programming language then he can see list of may question and answers where he can prepare for interview._
+* _In home page there is a link for Quiz, where it takes to another page with list of topics for quiz._
+* _If user clicks on the topic he can take the quiz._ 
+* _In the admin page admin can add question to the existing list of questions for the desired language can dynamically make changes to site._
+* _After the quiz is done it shows the score of the user._
+* _Contact page, where people can contact me to discuss about the webpage._
+
+## Minimum Technologies
+
+* _JavaScript_
+* _React_
+* _Node.js_
+* _HTML_
+* _UIKit_
+* _Firebase_
+
+
+## Support and contact details
+
+_ Manasa Vesala - vesalamanasa@gmail.com_
