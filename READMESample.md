@@ -31,6 +31,18 @@ _A web page where users can prepare for interviews for programming languages and
 * _UIKit_
 * _Firebase_
 
+## Outline Diagram
+
+## Wishlist Features
+
+* _Add levels to quiz by increasing the complexity._
+* _Add user authontication where user can login, and see all his previous score._
+* _Navigate to the project folder in the terminal._
+* _Authorized user can Add questions to dynamically make changes to site._
+
+## Additional Tools and Technologies
+
+* _None at this time, but this may change as I continue to work on the project._
 
 ## Support and contact details
 
