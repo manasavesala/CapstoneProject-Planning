@@ -33,6 +33,8 @@ _A web page where users can prepare for interviews for programming languages and
 
 ## Outline Diagram
 
+![Diagram](Diagram.png)
+
 ## Wishlist Features
 
 * _Add levels to quiz by increasing the complexity._
