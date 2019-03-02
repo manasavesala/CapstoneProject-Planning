@@ -6,7 +6,9 @@
 
 ## Project Link
 
-_https://github.com/manasavesala/.git_
+### Name: LearnAndQuiz
+
+_https://github.com/manasavesala/LearnAndQuiz.git_
 
 ## Description
 
